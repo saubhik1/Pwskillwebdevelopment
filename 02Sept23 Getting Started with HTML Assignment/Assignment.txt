@@ -1,0 +1,24 @@
+1.Explain the purpose of comments in HTML and provid an example of how to use comments in an HTML
+documents.
+
+Ans:Comments in html are used to add explanatory note within the code. They do not render in the webpage is is not visible to the User. 
+These are meant for developer or designer for better explanation of the code.
+
+2.Write a short note on Tag and element with an example: 
+
+Ans:Tag is a specific keyword enclosed by angle bracket (<  >).Tags are used to indicate the begining and ending of a html element.
+Element consists of both tags and content between them. Elements define the content and structure of a webpage.
+
+example:
+
+<p>this is paragraph</p>
+
+Here the begining and closing keyword <p> and </p> is tag.
+
+and both tag and the content enclosed between them is element.
+
+
+3.What is the DOCTYPE Declaration in HTML
+
+Ans:Doctype declaration is a special instruction that is used in the begining of a html code to to specify the version of the html for correct rendering and parsing in
+the webpage
